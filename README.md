@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning  New Algorithm and Data Structure.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help CP champ. 
-- 💬 Ask me about Any Tech related stuff.
+- 💬 Ask me about: Any Tech related stuff.
 - 📫 How to reach me: Linkedin:- [@Durgesh](https://www.linkedin.com/in/durgesh-kumar-529997194/),  Codechef:- [@durgesh_7979](https://www.codechef.com/users/durgesh_7979), Codeforces:- [@Durgesh_7979](https://codeforces.com/profile/Durgesh_7979)
 
 - 😄 Pronouns: He/His
