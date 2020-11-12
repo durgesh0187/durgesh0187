@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help CP champ. 
 - 💬 Ask me about Any Tech related stuff.
-- 📫 How to reach me: Linkedin- @Durgesh Kumar
+- 📫 How to reach me: Linkedin- https://www.linkedin.com/in/durgesh-kumar-529997194/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Lesting Music.
--->
+
+https://github-readme-stats.vercel.app/api?username=durgesh0187&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
