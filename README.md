@@ -8,6 +8,6 @@
 - 📫 How to reach me: Linkedin:- [@Durgesh](https://www.linkedin.com/in/durgesh-kumar-529997194/),  Codechef:- [@durgesh_7979](https://www.codechef.com/users/durgesh_7979), Codeforces:- [@Durgesh_7979](https://codeforces.com/profile/Durgesh_7979)
 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Lesting Music.
+- ⚡ Fun fact: Listening Music.
 
 <img src="https://github-readme-stats.vercel.app/api?username=durgesh0187&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=033333">
