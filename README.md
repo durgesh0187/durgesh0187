@@ -1,10 +1,10 @@
 ### Hi I'm Durgesh Kumar!👋
 
-- 🔭 I’m currently working on Competitive Programming.
-- 🌱 I’m currently learning  New Algorithm and Data Structure.
-- 👯 I’m looking to collaborate on Github.
-- 🤔 I’m looking for help CP champ. 
-- 💬 Ask me about: Any Tech related stuff.
+- 🔭 I’m currently working on:- Competitive Programming.
+- 🌱 I’m currently learning:-  New Algorithm and Data Structure.
+- 👯 I’m looking to collaborate on:- Github.
+- 🤔 I’m looking for help:- CP champ. 
+- 💬 Ask me about:- Any Tech related stuff.
 - 📫 How to reach me: <img src="https://api.iconify.design/bx:bxs-hand-down.svg"> 
 
      <img src="https://api.iconify.design/logos:linkedin.svg">:- [Durgesh](https://www.linkedin.com/in/durgesh-kumar-529997194/),   
