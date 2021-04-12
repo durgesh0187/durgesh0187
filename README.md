@@ -9,8 +9,8 @@
 
      <img src="https://api.iconify.design/logos:linkedin.svg">:- [Durgesh](https://www.linkedin.com/in/durgesh-kumar-529997194/),   
      <img src="https://api.iconify.design/simple-icons:codechef.svg">Codechef:- [durgesh_7979](https://www.codechef.com/users/durgesh_7979),
-     <img src="https://api.iconify.design/simple-icons:leetcode.svg">LeetCode:- [Durgesh_7979](https://leetcode.com/Durgesh_7979),
      <img src="https://api.iconify.design/simple-icons:codeforces.svg">Codeforces:- [Durgesh_7979](https://codeforces.com/profile/Durgesh_7979)
+     <img src="https://api.iconify.design/simple-icons:leetcode.svg">LeetCode:- [Durgesh_7979](https://leetcode.com/Durgesh_7979),
 
 
 
