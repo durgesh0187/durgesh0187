@@ -1,20 +1,52 @@
-### Hi I'm Durgesh Kumar!👋
+<h1 align="center">Hi 👋, I'm Durgesh Kumar</h1>
+<h3 align="center">MTech CSE @ NIT Jalandhar | AI Enthusiast | Competitive Programmer</h3>
 
-- 🔭 I’m currently working on:- Competitive Programming.
-- 🌱 I’m currently learning:-  New Algorithm and Data Structure.
-- 👯 I’m looking to collaborate on:- Github.
-- 🤔 I’m looking for help:- CP champ. 
-- 💬 Ask me about:- Any Tech related stuff.
-- 📫 How to reach me: <img src="https://api.iconify.design/bx:bxs-hand-down.svg"> 
+---
 
-     <img src="https://api.iconify.design/logos:linkedin.svg">:- [Durgesh](https://www.linkedin.com/in/durgesh-kumar-529997194/),   
-     <img src="https://api.iconify.design/simple-icons:codechef.svg">Codechef:- [durgesh0187](https://www.codechef.com/users/durgesh0187),
-     <img src="https://api.iconify.design/simple-icons:codeforces.svg">Codeforces:- [Durgesh_7979](https://codeforces.com/profile/Durgesh_7979)
-     <img src="https://api.iconify.design/simple-icons:leetcode.svg">LeetCode:- [Durgesh_7979](https://leetcode.com/Durgesh_7979),
+### 🚀 About Me
 
+- 🎓 Pursuing **MTech in Computer Science** from **NIT Jalandhar**
+- 🔭 Currently working on **Competitive Programming**, **AI-based projects**, and **C++ system-level tools**
+- 🌱 Actively learning **Advanced DSA**, **Machine Learning**, and **System Design**
+- 🧠 Building projects in **Python, C++, Streamlit, and ML frameworks**
+- 📈 Targeting **600+ coding questions** on LeetCode, Codeforces & CodeChef
 
+---
 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Listening Music.
+### 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=durgesh0187&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=033333">
+- 💻 Languages: `Python`, `C++`, `SQL`, `JavaScript`
+- 📊 ML/AI: `Scikit-learn`, `Pandas`, `Numpy`, `FinBERT`, `Streamlit`
+- 🧠 Tools: `Git`, `Linux`, `VS Code`, `Valgrind`
+- 📦 Projects: `AI Trading`, `Memory Monitor`, `Sentiment Analyzer`, `Mock Test Systems`
+
+---
+
+### 🧑‍💻 Competitive Profiles
+
+- 🥇 [Codeforces: Durgesh_7979](https://codeforces.com/profile/Durgesh_7979)
+- 🧠 [LeetCode: Durgesh_7979](https://leetcode.com/Durgesh_7979)
+- 👨‍🍳 [CodeChef: durgesh0187](https://www.codechef.com/users/durgesh0187)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/durgesh-kumar-529997194/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/durgesh0187)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@GateCSE-Mentor)
+
+---
+
+### 📊 GitHub Stats
+
+![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh0187&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh0187&layout=compact&theme=tokyonight)
+
+---
+
+### ⚡ Fun Fact
+🎧 I debug better with music, and I enjoy turning ideas into real-world applications!
+
+---
+
