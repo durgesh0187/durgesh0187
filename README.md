@@ -34,7 +34,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/durgesh-kumar-529997194/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/durgesh0187)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@GateCSE-Mentor)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@DurgeshNITian)
 
 ---
 
